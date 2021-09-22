@@ -12,36 +12,6 @@
 void ServiceInfo::HideItem()
 {
    UIItem("projGrid")->setVisible(false);
-//   UIItem("tbPhone")->setVisible(false);
-//   UIItem("image_gov_d")->setVisible(false);
-//   UIItem("img_dy")->setVisible(false);
-//   UIItem("image_gov_t")->setVisible(false);
-//   UIItem("img_ty")->setVisible(false);
-//   UIItem("image_gov_p")->setVisible(false);
-//   UIItem("img_p")->setVisible(false);
-//   UIItem("image_gov_q")->setVisible(false);
-//   UIItem("image_qz")->setVisible(false);
-//   UIItem("grid_info")->setVisible(false);
-//   UIItem("serviceStar")->setVisible(false);
-//   UIItem("phone2")->setVisible(false);
-//   UIItem("FRGrid")->setVisible(false);
-
-//   UIItem("tbPhoneB")->setVisible(false);
-//   UIItem("image_gov_dB")->setVisible(false);
-//   UIItem("img_dyB")->setVisible(false);
-//   UIItem("image_gov_tB")->setVisible(false);
-//   UIItem("img_tyB")->setVisible(false);
-//   UIItem("image_gov_pB")->setVisible(false);
-//   UIItem("img_pB")->setVisible(false);
-//   UIItem("image_gov_qB")->setVisible(false);
-//   UIItem("img_qzB")->setVisible(false);
-//   UIItem("grid_infoB")->setVisible(false);
-//   UIItem("serviceStarB")->setVisible(false);
-//   UIItem("phone2B")->setVisible(false);
-//   UIItem("btnProjectPageUp")->setProperty("enabled", false);
-//   UIItem("btnProjectPageDown")->setProperty("enabled", false);
-//   UIItem("modifyPersonInfo")->setVisible(false);
-//   UIItem("img_qn")->setVisible(false);
    servicedetailPage->Hide();
 }
 
